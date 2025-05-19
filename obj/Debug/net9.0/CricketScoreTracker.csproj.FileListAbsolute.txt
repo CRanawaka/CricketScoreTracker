@@ -1,0 +1,14 @@
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\bin\Debug\net9.0\CricketScoreTracker.exe
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\bin\Debug\net9.0\CricketScoreTracker.deps.json
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\bin\Debug\net9.0\CricketScoreTracker.runtimeconfig.json
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\bin\Debug\net9.0\CricketScoreTracker.dll
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\bin\Debug\net9.0\CricketScoreTracker.pdb
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\CricketScoreTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\CricketScoreTracker.AssemblyInfoInputs.cache
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\CricketScoreTracker.AssemblyInfo.cs
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\CricketScoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\CricketScoreTracker.dll
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\refint\CricketScoreTracker.dll
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\CricketScoreTracker.pdb
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\CricketScoreTracker.genruntimeconfig.cache
+C:\Users\Chathushka\Videos\Fullstack25\ASP\CricketScoreTracker\obj\Debug\net9.0\ref\CricketScoreTracker.dll

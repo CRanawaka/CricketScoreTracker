@@ -1,0 +1,5 @@
+2025-04-29 22:10: SL vs IND | Runs=105, Overs=15, Result=L, PotM=V. Kholi
+2025-04-29 22:10: SL vs AUS | Runs=145, Overs=15, Result=D, PotM=T. Head
+2025-04-29 22:11: SL vs ENG | Runs=178, Overs=15, Result=W, PotM=P. Nissanka
+2025-04-29 22:11: SL vs SA | Runs=145, Overs=15, Result=W, PotM=C. Asalanka
+2025-04-29 22:11: SL vs NZ | Runs=188, Overs=18, Result=W, PotM=K. Mendis
